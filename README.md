@@ -1,5 +1,7 @@
 This is a executice dashboard for tracking marketing sales of products and tracking their regional performance metrics.
 
+*Link* : https://exec-kpi-dashboard.streamlit.app/
+
 **Tools Used:**
 + Python
 + SQL
