@@ -1,0 +1,26 @@
+product_id,product_name,category,price,cost
+1,Spicy Chips,Chips,4.26,1.74
+2,Cheese Chips,Chips,5.63,2.28
+3,BBQ Chips,Chips,3.69,1.51
+4,Cola Drink,Beverages,8.16,4.53
+5,Orange Soda,Beverages,3.5,1.86
+6,Energy Drink,Beverages,2.9,1.18
+7,Chocolate Bar,Candy,9.1,4.85
+8,Gummy Candy,Candy,2.44,1.29
+9,Mint Candy,Candy,2.81,1.82
+10,Protein Bar,Protein Snacks,9.76,4.52
+11,Trail Mix,Protein Snacks,2.96,1.82
+12,Protein Chips,Protein Snacks,5.84,3.32
+13,Local Snack,Candy,5.04,3.21
+14,Determine Snack,Chips,7.7,4.28
+15,Attention Snack,Protein Snacks,3.54,1.89
+16,Shoulder Snack,Candy,2.23,0.98
+17,Get Snack,Beverages,4.62,1.88
+18,Require Snack,Beverages,4.81,2.05
+19,Thought Snack,Candy,5.83,2.98
+20,Song Snack,Chips,4.11,1.96
+21,Mind Snack,Beverages,6.71,2.86
+22,Protect Snack,Candy,5.25,2.58
+23,Pretty Snack,Candy,3.17,1.48
+24,Wife Snack,Beverages,4.86,2.41
+25,Expert Snack,Chips,9.41,4.35
