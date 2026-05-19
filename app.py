@@ -250,4 +250,10 @@ st.markdown(f"""
 - 💡 Optimize pricing or promotions in low-profit regions.
 """)
 
+
+with st.expander("About this App"):
+    st.write("Created by Beeraboina Rahul")
+    st.write("Made in Python & Streamlit")
+    st.write("Know more about Beeraboina Rahul at https://beeraboina-rahul-website.streamlit.app/")
+
 st.caption("© 2026 Beeraboina Rahul")
